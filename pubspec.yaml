@@ -1,7 +1,7 @@
 name: rhythmrail
 description: "Rhythm Rail - hop to the beat on rails"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.13.5
